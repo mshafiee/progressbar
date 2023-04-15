@@ -8,8 +8,6 @@ Usage
 
 Import the package with:
 
-go
-
 ```go
 import "github.com/mshafiee/progressbar"
 ```
@@ -17,8 +15,6 @@ import "github.com/mshafiee/progressbar"
 Call any of the functions in the package to display a progress bar.
 
 For example, to display a simple progress bar:
-
-go
 
 ```go
 progressbar.SimpleProgressBar(50, 100)
