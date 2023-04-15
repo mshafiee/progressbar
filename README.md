@@ -45,8 +45,6 @@ Each function takes two arguments: `completed` and `total`. These are the curren
 Example
 -------
 
-go
-
 ```go
 package main
 
