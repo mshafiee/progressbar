@@ -64,4 +64,8 @@ func main() {
 }
 ```
 
-This will display an arrow progress bar that fills up as the loop progresses.
+This will display an arrow progress bar that fills up as the loop progresses:
+
+```
+[======================>............................] 45.00%
+```
